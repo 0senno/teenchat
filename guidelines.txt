@@ -1,0 +1,319 @@
+**WARN > MUTE > KICK** is the mod protocol for almost everything you should do, unless otherwise specified and for the same offense
+
+**WARN**: Just as it says, warn the user to stop doing what he / she is doing, you should ping/pm the user, a general warning such as “Keep it clean” should also be given before you take action
+
+**MUTE**: A mute is only 5m / 10m / 15m, a mute should be given after a warning has been given and if they have continued their offense.
+
+**KICK**: Basically is a temporary ban, this should be taken out after a mute has been given, this should start at 5 mins and carry on from there, kicks are 5m / 10m / 15m / 30m and 1 or 2 hours. This should start at 5 mins after a mute and proceed to increase the kick each time. There is no reason to start at 1 or 2 hour kicks for anything but max kick offenses.
+
+**INCREMENTAL KICKS**: (In this order and for the same offense)
+1: WARN
+2: MUTE 5-15 minute
+3: KICK 5 minute
+4: KICK 10 minute
+5: KICK 15 minute
+6: KICK 30 minute
+7: KICK 1 hour
+8: FIRST MAX KICK
+9: SECOND MAX KICK
+BAN REQUESTS: Users who have reached ban level, should be ban requested to the Admin. Post a screenshot of their history / bannable proof and there username in <#1089389122709356665>  NOTE: ALL MODS MUST BAN REQUESTS THE MAX KICK OFFENSES AND LONG HISTORIES: Mods that are failing to ban request users may be removed from mod team, it is very essential to ban request, especially overage and pedos must be ban requested.
+BANNED USERS: Bans expire after 30 days when their account gets deletes, they will be allowed back in after their ban expires, those who return before that will be considered evading the ban and should be rebanned. If they are overage, underage, pedophiles or an ewhore they will a KOS/BOS (Kick/Ban on sight).
+NOTE:
+• Make sure to delete ALL offending chat logs in main chat.
+• Make sure to remove inappropriate profile pictures and background pictures from the users account.
+• Make sure to remove rulebreaking activity from moods and bios.
+• In the event that a user evades a mute, kick for 15 mins, if they evade a kick, max kick the evading account
+• We do not take action without 100% solid proof, all user proof must be from within the chat.
+• Do not ignore users chat related questions, if you’re unsure then ask fellow mods or me.
+• Be professional. After all, you are representing the site.
+• If you need assistance with helping a troublesome user, feel free to direct them to me or forums or message me and I can assist.
+• Before taking action, check their history to correctly see what the next appropriate action is, reminder that it’s only the same offense that will increase the kick time.
+📌 **IMMEDIATELY MAX KICK**
+
+`ACTION: MAX KICK + BAN REQUEST`
+
+• Overage users (20 or older)
+• Underage users (12 or younger)
+• Pedophiles
+• 18 and older being sexual with someone who is 16 or younger
+• Usernames with overage name such as “Daddy, Teacher, Coach, Doctor, older male, etc”
+• MEGA / STR / S2R / Dropbox / links / links trade / .nz /etc…” (Read section below)
+• Child porn as their profile picture/background picture:
+• Asking for CP or “young vids/pics”
+• CP links: volafile, unsee.cc, wicker etc…
+• E-Whores (users selling nudes or other things)
+• Cash App
+• Bots
+• Known evaders / trolls / perverts (people on KOS list)
+• Model agents or porn site recruiters
+• Scamming users 
+• Advertising other sites / apps
+• Impersonating / cloning: Moderators / Admin / Owner / bots / other users
+• Claiming to be law enforcement 
+• Multiple accounts with different identities (read section below)
+• Hacking / Doxing / Blackmailing / ect. threats
+• Ban Evaders 
+
+`ACTION: KICK 2 - 2 - 2 + BAN REQUEST`
+
+• Sexual solicitation
+📌 **INAPPROPRIATE CONTENT 
+**
+`ACTION: WARN > (MUTE 5) > KICK 5 - 10 - 15 - 30 - 1 - 2 - 2 + BAN REQUEST`
+
+• Inappropriate pictures (Example: underwear / bra / ect. (You decide)
+• Sexual / Inappropriate behavior
+• Perving
+• Sexual Roleplays
+• Age-play
+• Top / Bottom
+• Sub / Dom 
+• BDSM / DDLG / BDLB 
+• Kinks
+• Master / Slave / Mistress
+• Asking to compare or mentioning size
+• Crossdressy / Sissy
+• Inappropriate gifs / drawings / uploads
+
+`ACTION: KICK 15 - 30 - 1 - 2 + BAN REQUEST`
+
+• Requesting for nudes / sex cam 
+• Fetishes
+
+`ACTION: KICK 30 - 1 - 2 + BAN REQUEST`
+
+• Nudity in profile pictures / background pictures / cams / uploading on main or private messages or friends wall / ect.
+• Hentai
+• Rape talk
+• Incest
+• Bestiality
+• Inappropriate babysit talk
+• Naturist / nudist
+• Taboo
+📌** PRIVACY**
+
+
+`ACTION: WARN > MUTE 5 > KICK 5 - 10 - 15 - 30 - 1 - 2 - 2 + BAN REQUEST`
+
+• Posting social media / phone numbers / emails / addresses / location / ect. on main / moods / bios / friends wall
+• Meetups / Hookups
+• Uploading users picture on main
+
+`ACTION: MAX KICK + BAN REQUEST`
+
+• Uploading users picture on the internet / sites / ECT. 
+• Catfishing as that user
+📌 **LANGUAGE**
+
+
+`ACTION: WARN > MUTE 5 > KICK 5 - 10 - 15 - 30 - 1 - 2 - 2 - Ect. NO BAN REQUESTS FOR THESE (unless the user continuing doing it) `
+
+• Joking about their age (if you are positively sure they are joking)
+• Spamming / Scrolling / Flooding 
+• Slurs (“Ngger / Ngga, Cnt, “Fg / F*ggot / ect.”) 
+• Bullying / Harassing / Annoying users (inform them to try to use ignore button first)
+• Requesting for older / younger
+• Accusing users for being overage / underage / pedophiles / catfishes / ECT. without proof
+• Not speaking English (allowed in private messages if both users agree on it) 
+• Political / Controversial / Religious / Drugs / Suicide / Violence Talk / ECT. 
+• Excessively disrupting / trolling
+• Minimodding / impersonating as a staff member
+
+`ACTION: MUTE 5 > KICK 5 - 10 - 15 - 30 - 1 - 2 - 2 + BAN REQUEST`
+
+• Racism / Sexism / Homophobia
+• Flooding (if system doesn’t get it)
+📌 **PROFILES**
+
+
+`ACTION: WARN > MUTE 5 > KICK 5 - 10 - 15 - 30 - 1 - 2 - 2 + BAN REQUEST`
+
+• Inappropriate texts in bio / mood
+• Inappropriate pictures (without nudity)
+• Inappropriate username (For users: request them a new username by messaging them, if they have chosen a new name, post in <#1090184241654005761> // For VIPs: Tell them to change it
+
+`ACTION: KICK 15 - 30 - 1 - 2 + BAN REQUEST` 
+
+• Catfishing (uploading pictures from the internet and saying you are that person) 
+
+`ACTION: MAX KICK + BAN REQUEST`
+
+• Multiple alt accounts with different identities
+📌 **OFFENSIVE BEHAVIOR**
+
+
+`ACTION: WARM > MUTE 5 > KICK 5 - 10 - 15 - 30 - 1 - 2 - 2 + BAN REQUEST`
+
+• Bullying / harassment.
+• Trolling
+• Death threads
+• False reporting
+• Falsely accuse other users of being a pedo / overage / catfish / ect. without proof. 
+• Minimodding  (Minimodding - Pretending to be a mod and giving users warnings)
+
+`ACTION: KICK 15 - 30 - 1 - 2 + BAN REQUEST`
+
+• Sugar daddy / Sugar mommy
+• Asking for trade / swap / nudes exchange for pics / vids or sexting
+
+`ACTION: MAX KICK + BAN REQUEST`
+
+• Advertising other chat sites / servers / apps / Ect.
+• Cloning users / staff / bots
+📌 **USERNAMES**
+
+• All usernames must be applied to their usernames
+• Usernames must be appropriate, in English and does not have any foreign fonts. Ex: 𝕌𝕤𝕖𝕣𝕟𝕒𝕞𝕖 
+
+**Name changes**:
+**For VIPs**: First ask them to change their username in private messages, in that case, also tag them in the main chat. If they haven't after a while, THEN you can take action: 5 kick - 10 kick - Ect...
+
+**For Users**: Send a private message saying "please choose another username by telling me which one you want" (only if it's inappropriate). Tag them on main chat to check their DMs. If they ignore you and haven’t reply to you (while they are still online) or don’t want to change it, THEN you can start taking action: 5 kick - 10 kick - Ect... Let me know if they continuing declining. If they have a username that is allowed but still want to change it, tell them to create a new account or buy VIP. If they have chosen a new username, copy and paste their username they are using at the moment and the username the have chosen in <#1090184241654005761>  
+
+**For Guests**: If it isn't that bad but still needs to be changed, tell them to log out and change their username. If they have an inappropriate username, you can immediately take action: 5 kick - 10 kick - Ect... "Reason: log out and change your username"
+📌 **MONITORING CAMS**
+
+• Don't forget to check the cam list, request them to look a their cam
+• Naked / Jerking off on cam:  `ACTION: KICK 30 - 1 - 2 + BAN REQUEST`
+• If they look overage: `ACTION: KICK 2 HOURS + BAN REQUEST` + screenshot to proof it
+• If they do not accept your request to view cam, leave it be
+• However, if a report comes in saying “user X is naked on cam”, then request. And if they don’t accept warn and if they don’t respond: `ACTION: KICK 5 - 10 - ...` for failure to accept cam
+• You could also go undercover on a guest account for example
+• Streaming porn: `ACTION: KICK 2 HOURS + BAN REQUEST`
+
+*Users can request others to join their cams, they can not request for external cams (just as Skype, Whereby, Ect.*
+📌 **INSTRUCTIONS FOR SIDE ROOMS **
+
+• Don't forget to check side rooms, just a little peak is good enough too
+• Certain room rules can be dropped such as the politics talk, Etc... Don’t let them break any main rules
+• If you encounter a bad / inappropriate room and it was meant to be sexual or inappropriate, mute / kick out the PEOPLE INVOLVED, many users go there to see what’s happening or badmouth the people
+• If a room has an inappropriate name, tag me in <#1089389066765746206>   so I can remove the name
+• “Closing rooms”, if a room is found inappropriate and remaining, ask the remaining user to leave the room, then copy and paste this to the side room only: 
+/topic Room claimed by a moderator, please do not type in this room so it can be deleted
+📌 **CATFISHING **
+
+Catfishing is when someone is pretending to be another person, using a picture from the internet. 
+• Only take action when you have proof that the user is catfishing
+• Reverse the image (Sites where you can do it: Yandex, TinyEye, Google search, Ect.) 
+• Ask them if that is them in the picture
+• If they say yes, warn them and delete the picture. If they add it again: `ACTION: KICK 15 - 30 - 1 - 2 + BAN REQUEST`
+• If they say no, tell them to write 'not me in the picture' in their bio or mood
+• Proof of them catfishing can always be posted in <#1089389138794528788>   , their profile where they are using that picture and proof that you reversed the picture
+
+• Users with multiple alt accounts with different identities: `ACTION: KICK 2 HOURS + BAN REQUEST`
+📌 **MEGALINKS**
+
+Terms such as “mega, megalinks, link, str, s2r, Dropbox, cp, vola / volafile, .nz, NZ, folders, files, trading links / folders etc…” are pedophiles trading / asking / distributing CP. Please MAX KICK immediately and ban request if a user. Some of these are hard to find at some points but you will see it, ask me if you’re unsure.
+📌 **MODERATOR RULES**
+
+• All mutes and kicks must have a reason. They say they’re optional, but they are mandatory. Be specific or copy paste the offending message
+• Do not use any other mod commands besides /mute , /kick
+• All mods should remain in the main room while modding. If you are bombarded with reports or pms go to a side room
+• If you are not modding please log out or go into a side room
+• Do not jump kicks or mutes. If it is warm > mute > kick , then warn > mute > kick
+• Do not argue / fight with another mod, if you have a complaint against another mod then message me
+• If you have a complaint against me then message me
+• Do not remove other mods’ kicks. If you see it was by mistake, rekick the user with the same reason
+• Mods are not allowed to use the ignore button and ignore list must be clear, also private messages must be set to “on”
+• Mods are not allowed to share accounts or give out passwords
+• Mods cannot change their usernames without permission from me 
+• Do not abuse power, this includes kicking users with bias towards another user
+• Mods must obey all chat room rules
+• Mods must be actively moderating that chat when online
+• Mods must not cause / start / engage in user arguments or drama
+• Anything said in the mod channels should not be given to anyone who does not have access to it. Anyone caught doing so will be removed. These channels are confidential
+• Users histories or other accounts may not be shown in main or to anybody but that user
+• You may not add things to avatars / covers or moods or bios. You can only remove them or add warnings such as “REMOVED BY MOD”
+• Do not kick people as a joke
+• Mods must be active at least 2 hour a day, if you need breaks, message me, if you leave without warning for a couple of days there may be demotion
+• Please give personal life over modding at all times
+
+1. Ages:
+Teen Chat is restricted to Teens of 13-19 years of age
+Please leave this Room if you are under or over the allotted age.
+Jokes / Lies about your age can result in actions taken against your account.
+Requests for Older or Younger without a specified age range is also not permitted.
+Example - “Anyone 17-19” should be said instead of “Anyone over 17”.
+
+2. Inappropriate Content:
+Teen Chat is a Clean & SFW Chat.
+Sexual / Inappropriate Content is prohibited.
+This includes topics of any sexual or horny behavior, fetishes/kinks, master/slave/Mistress, top/bottom, sub/dom, BDSM/DDLG/BDLB/BDLB or littlespace talk, as well as discussions about incest, rapé, or bestiality.
+Requesting or offering Nudes / Pictures or even Videos will get you removed.
+Sexual Roleplays as well as Age-playing are not allowed.
+GIFs posted must always remain appropriate.
+Any form of Pedophilia will result in an Immediate Ban and referrals with local law enforcement.
+Any mentions of MEGA / STR / DROPBOX / WICKR / UNSEE / VOLAFILE or mentioning trading will also result in Bans and referrals with your local law enforcement.
+
+3. Privacy:
+No social media/emails/phone numbers may be posted on main. This includes moods and bios.
+Social media may be sent in private messages. (We highly suggest you be cautious of people you add on social media)
+Sharing your account or password with other users is not allowed.
+Requesting for meetups/hookups is not allowed.
+Do not post addresses/school names/towns/full names in the chat.
+Doxxing/Hacking/Blackmail threats against users are prohibited and may result in a ban.
+Do not tell them to “kill themselves”, “kys” or other threats like that.
+
+4. Language:
+English is the only language that can be spoken in the main chat.
+Other languages may be spoken in private messages if both users agree.
+Racism/Homophobia/Sexism etc. is not allowed.
+The use of slurs is prohibited. These include: “n*gga/n*gger, c*nt, f*ggot”...
+Talking about exclusive politics/religious/controversial themes are not allowed. (Take topics like these in Private Messages)
+Discussions on suicide/abuse and violence/drugs topics are not allowed.
+
+5. Profiles:
+Uploading nudes / inappropriate pictures in profile pictures or background pictures is strictly prohibited and will get you removed.
+All chat rules must be applied to moods and bios.
+Usernames must remain clean and have no letter fonts.
+CATFISHING:
+Different accounts with different identities/ages/genders are NOT allowed and can lead to a ban.
+Uploading pictures from the internet and saying you are the person in the picture will be seen as catfishing and is not allowed.
+If you still want to use a photo from the internet, write in your bio that you are not the person in the photo (Example - "profile picture not me").
+6. Postings/requests
+Selling content / E-whoring is prohibited and will lead to a ban.
+Sending links is not allowed.
+With exception for VIP users who are only allowed to send ******* links.
+Cam links/file trading links are strictly prohibited.
+No cam/call requests. (Example - Skype, FaceTime, Whereby, KIK, Zoom, Voice Calls …)
+Do not offer/ask to join any group chats.
+Do not ask/offer money or anything else.
+Asking/offering VIP is not allowed.
+Do not spam/flood/scroll
+(Spamming: Posting multiple messages in a short amount of time or posting the same message in a short time)
+Do not mention suspicious websites/apps.
+Examples - Whereby, Wickr, etc.
+Inappropriate requests are not allowed.
+This includes asking for family members, inappropriate acts, etc…
+Babysit talk is not allowed.
+Sub/dom requests are not allowed.
+Truth or Dare requests are not allowed.
+
+7: Offensive behavior:
+We do not tolerate bullying or harassment.
+Use the ignore button if you are being harassed, report it to a staff member if necessary.
+Do not troll around in the chat.
+Do not falsely report or report staff members.
+Do not falsely accuse other users of being a pedo/overage/catfish without proof. (Report to a mod if they are or use the ‘Report Button’)
+Do not clone users/staff/bots.
+Minimodding is not allowed. (Minimodding - Pretending to be a mod and giving users warnings)
+Advertising other chat sites/servers/apps is not allowed and may lead to a ban.
+
+8. Side rooms:
+All main chat rules must be followed in the side rooms except for:
+Certain chat rules such as political debates or foreign languages can be dropped if it’s the room's purpose.
+Inappropriate side rooms are subject to deletion and action on the room owner and participating users.
+Room staff are expected to moderate their room, failure to remove content that falls under our rules above can result in removal of the room staff rank or deletion of the room.
+
+9. Cam rules:
+Keep it appropriate on cams! All the rules count!
+No nudity.
+Streaming any pôrn video's, ect... will cause for a ban.
+You may tell the other users to join your cam (= the cam on the site!). Extern cam requests are not allowed.
+
+
+10. VIP features:
+VIP features are not to be abused if you are vip rank.
+Any uploaded content must be appropriate and not contain any form of nudity, otherwise inappropriate, controversial images, social media names, etc…
+Voice messages must be appropriate, no slurs, must be English.
+The drawing tool may not be abused, inappropriate drawings will be removed.
